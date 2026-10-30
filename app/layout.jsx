@@ -1,0 +1,1 @@
+export const metadata={title:'Pharmacy B Roll Number Slip Portal',description:'Student roll number slip requests'};export default function Layout({children}){return <html lang="en"><body style={{fontFamily:'Arial,sans-serif',margin:'auto',maxWidth:720,padding:24,background:'#f7fafc',color:'#162337'}}>{children}</body></html>}
